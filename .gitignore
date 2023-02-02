@@ -15,10 +15,13 @@ sdist/
 
 # Developer environments
 .idea
-.vscode
 .env
 .venv
 .DS_Store
 .mypy_cache
 
 local-worker/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
